@@ -15,6 +15,7 @@ public class ArithmeticOperatorDemo {
 		System.out.println(num1 / num2);
 		System.out.println(num1 % num2);
 
+		s.close();
 	}
 
 }

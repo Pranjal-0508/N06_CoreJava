@@ -17,6 +17,8 @@ public class AssignmentOperatorDemo {
 		int num2 = s.nextInt();
 		num1*=num2;
 		System.out.println(num1);
+	
+		s.close();
 	}
 
 }
