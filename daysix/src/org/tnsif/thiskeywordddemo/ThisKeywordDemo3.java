@@ -1,4 +1,4 @@
-//invoke current class constructor value
+//2. invoke current class constructor value
 
 package org.tnsif.thiskeywordddemo;
 
