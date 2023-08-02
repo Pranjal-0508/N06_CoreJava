@@ -1,5 +1,6 @@
 //Program to demonstrate on :
 //this keyword is used to refer the current instance of the class
+// pass an argument to the constructor call
 
 package org.tnsif.thiskeywordddemo;
 
